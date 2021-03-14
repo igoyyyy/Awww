@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-For more commands click /help...
+For more commands click /help....
 
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
